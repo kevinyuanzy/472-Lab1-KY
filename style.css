@@ -1,4 +1,7 @@
-.heading {
-    background-color: aliceblue;
-    color: blueviolet;
+.heading{
+    background-color: rgb(204, 204, 204);
+    color: rgb(9, 39, 230);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
